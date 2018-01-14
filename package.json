@@ -10,6 +10,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "echarts": "^3.8.5",
+    "leaflet": "^1.2.0",
+    "leaflet.markercluster": "^1.2.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
